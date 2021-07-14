@@ -1,4 +1,4 @@
-[![j-s-457](https://circleci.com/gh/j-s-457/Udacity-Project4/blob/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/github/j-s-457/Udacity-Project4/4/workflows/9b9fd042-2c28-46ac-913d-63ac817e5d75/jobs/4)
+[![j-s-457](https://circleci.com/gh/j-s-457/Udacity-Project4/tree/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/github/j-s-457/Udacity-Project4/4/workflows/9b9fd042-2c28-46ac-913d-63ac817e5d75/jobs/4)
 
 ## Project Overview
 
